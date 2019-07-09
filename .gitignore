@@ -2,3 +2,4 @@ random_data_load*
 *.swp
 vendor/
 bin/*
+build/*
