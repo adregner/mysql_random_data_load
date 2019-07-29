@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Percona-Lab/mysql_random_data_load/internal/getters"
-	"github.com/Percona-Lab/mysql_random_data_load/tableparser"
+	"github.com/adregner/mysql_random_data_load/internal/getters"
+	"github.com/adregner/mysql_random_data_load/tableparser"
 	"github.com/gosuri/uiprogress"
 	log "github.com/sirupsen/logrus"
 )

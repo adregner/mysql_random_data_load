@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	tu "github.com/Percona-Lab/mysql_random_data_load/testutils"
+	tu "github.com/adregner/mysql_random_data_load/testutils"
 )
 
 func TestGetSamples(t *testing.T) {
